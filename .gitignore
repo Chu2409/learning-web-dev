@@ -1,0 +1,12 @@
+.DS_Store
+
+
+
+projects/**/.DS_Store
+projects/**/target/
+projects/**/node_modules/
+projects/**/dist/
+projects/**/.env
+projects/**/*.png
+projects/**/*.jpg
+projects/**/*.jpeg
